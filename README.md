@@ -67,16 +67,6 @@ The web dashboard displays:
 - Users can download logged data directly from the web interface  
 - Enables offline analysis and record keeping  
 
-## 📷 Project Demonstration
-
-> Add images here
-
-- Circuit diagram  
-- Hardware setup  
-- Web dashboard with graphs  
-
-
----
 
 ## ▶️ How to Run
 
